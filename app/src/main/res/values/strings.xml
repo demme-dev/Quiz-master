@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz Master</string>
+
+    <!-- Welcome Screen -->
+    <string name="welcome_title">Quiz Master</string>
+    <string name="welcome_subtitle">Test your knowledge across multiple categories!</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="settings_title">Settings</string>
+    <string name="settings_gear_description">Open Settings</string>
+    <string name="exit_app">Exit</string>
+    <string name="how_to_play_title">How to Play</string>
+    <string name="how_to_play_rules">1. Choose a Category &amp; Difficulty level.\n\n2. Select your answer before the timer runs out!\n\n3. Review your answers and track high scores at the end!</string>
+    <string name="btn_got_it">Got It!</string>
+
+    <!-- Navigation & Dialogs -->
+    <string name="cd_back">Back</string>
+    <string name="quit_quiz_title">Quit Quiz?</string>
+    <string name="quit_quiz_message">Quit quiz? Your progress will be lost.</string>
+    <string name="btn_quit">Quit</string>
+    <string name="btn_continue_quiz">Continue</string>
+
+    <!-- Settings Screen -->
+    <string name="quiz_options_title">Quiz Options</string>
+    <string name="help_section_title">Help</string>
+    <string name="about_section_title">About</string>
+    <string name="sound_effects">Sound Effects</string>
+    <string name="enable_timer">Countdown Timer</string>
+    <string name="question_count_title">Questions per Quiz</string>
+    <string name="qc_5">5</string>
+    <string name="qc_10">10</string>
+    <string name="qc_15">15</string>
+    <string name="how_to_play_row">How to Play</string>
+    <string name="app_version">Version 1.0</string>
+    <string name="developed_by">Developed by Quiz Master Team</string>
+    <string name="save_settings">Save Settings</string>
+
+    <!-- Category & Difficulty Screen -->
+    <string name="select_category_title">Select Category</string>
+    <string name="select_difficulty_title">Select Difficulty</string>
+    <string name="cat_computer_science">Computer Science</string>
+    <string name="cat_general_knowledge">General Knowledge</string>
+    <string name="cat_mathematics">Mathematics</string>
+    <string name="diff_easy">Easy (No Timer)</string>
+    <string name="diff_medium">Medium (20s Timer)</string>
+    <string name="diff_hard">Hard (10s Timer)</string>
+    <string name="btn_continue">Continue to Quiz</string>
+
+    <!-- Quiz Screen -->
+    <string name="question_progress_format">Question %1$d of %2$d</string>
+    <string name="current_score_format">Score: %1$d / %2$d</string>
+    <string name="next_button">Next</string>
+    <string name="submit_button">Submit</string>
+    <string name="finish_button">Finish</string>
+    <string name="please_select_answer">Please select an answer!</string>
+    <string name="timer_format">%1$ds</string>
+    <string name="time_up">Time\'s Up!</string>
+    <string name="restart_quiz">Restart Quiz</string>
+
+    <!-- Result Screen -->
+    <string name="quiz_completed">Quiz Completed!</string>
+    <string name="final_score_format">Score: %1$d / %2$d</string>
+    <string name="best_score_format">Best Score: %1$d / %2$d</string>
+    <string name="percentage_format">%1$d%%</string>
+    <string name="play_again">Play Again</string>
+    <string name="home">Home</string>
+    <string name="review_answers">Review Answers</string>
+    <string name="share_result">Share Result</string>
+    <string name="msg_excellent">Excellent! Outstanding performance! 🌟</string>
+    <string name="msg_good">Good job! Well done! 👍</string>
+    <string name="msg_keep_practicing">Keep practicing! You\'ll get better! 💪</string>
+    <string name="trophy_emoji">🏆</string>
+    <string name="share_text_format">I scored %1$d/%2$d (%3$d%%) in %4$s on Quiz Master!</string>
+
+    <!-- Answer Review Screen -->
+    <string name="review_title">Answer Review</string>
+    <string name="btn_back_to_results">Back to Results</string>
+    <string name="your_answer_format">Your Answer: %1$s</string>
+    <string name="correct_answer_format">Correct Answer: %1$s</string>
+</resources>

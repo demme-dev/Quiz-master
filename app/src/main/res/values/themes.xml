@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme using Material3 NoActionBar -->
+    <style name="Theme.QuizeApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your theme colors here. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="android:windowBackground">@color/background_light</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+    </style>
+</resources>

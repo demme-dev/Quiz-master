@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand / Theme Colors -->
+    <color name="primary">#4F46E5</color>
+    <color name="primary_dark">#3730A3</color>
+    <color name="primary_light">#EEF2FF</color>
+    <color name="secondary">#0284C7</color>
+
+    <!-- Welcome Gradient Palette -->
+    <color name="gradient_start">#4F46E5</color>
+    <color name="gradient_end">#7C3AED</color>
+
+    <!-- Neutral UI Colors -->
+    <color name="background_light">#F8FAFC</color>
+    <color name="card_surface">#FFFFFF</color>
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#475569</color>
+    <color name="stroke_color">#E2E8F0</color>
+
+    <!-- Option Card & Instant Feedback Colors -->
+    <color name="option_bg_normal">#FFFFFF</color>
+    <color name="option_stroke_normal">#CBD5E1</color>
+    <color name="option_stroke_selected">#4F46E5</color>
+
+    <color name="correct_green">#10B981</color>
+    <color name="correct_green_bg">#D1FAE5</color>
+    <color name="wrong_red">#EF4444</color>
+    <color name="wrong_red_bg">#FEE2E2</color>
+
+    <!-- Base Palette -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
